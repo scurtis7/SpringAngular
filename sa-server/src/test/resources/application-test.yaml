@@ -1,0 +1,13 @@
+# Application Local Properties
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: info
+    com:
+      scurtis: debug
+
+scurtis:
+  app-version: 1.0.0

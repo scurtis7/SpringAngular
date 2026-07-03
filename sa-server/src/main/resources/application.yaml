@@ -1,0 +1,10 @@
+# Application Properties
+
+spring:
+  application:
+    name: sa-server
+
+management:
+  endpoint:
+    health:
+      show-details: always
